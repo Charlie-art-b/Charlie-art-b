@@ -49,28 +49,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Charlie-art-b&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie-art-b&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charlie-art-b&theme=tokyo-night"/>
-</p>
-
----
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">

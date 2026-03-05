@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Business+Informatics+Student+@+UCR;Full+Stack+Developer;Java+%7C+.NET+%7C+Laravel+%7C+React;Cloud+Computing+Enthusiast;Always+learning+new+technologies">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Business+Informatics+Student+@+UCR;Full+Stack+Developer;Java+%7C+.NET+%7C+Laravel+%7C+React;learning+new+technologies">
   </a>
 </p>
 
@@ -12,11 +12,9 @@
 
 🎓 Final year **Business Informatics Student** at the **University of Costa Rica (UCR)**  
 💻 Full Stack Developer passionate about building scalable applications  
-☁️ Currently learning **Cloud technologies and Microsoft Azure (AZ-104)**  
 📚 Interested in **Software Development, Cloud Computing and System Architecture**
 
 - 🔭 Currently working with **Laravel and modern JavaScript frameworks**
-- 🌱 Learning **Azure, DevOps and cloud infrastructure**
 - 💬 Ask me about **Java, Spring Boot, .NET, Laravel, React**
 - ⚡ Fun fact: I enjoy solving complex backend problems
 
@@ -46,15 +44,6 @@
 
 ---
 
-## ☁️ Cloud & Tools
-
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-
----
 
 # ⭐ Featured Projects
 

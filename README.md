@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Business+Informatics+Student+@+UCR;Full+Stack+Developer;Java+%7C+.NET+%7C+Laravel+%7C+React;learning+new+technologies">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Business+Informatics+Student;Full+Stack+Developer;Java+%7C+.NET+%7C+Laravel+%7C+React;learning+new+technologies">
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Charlie-art-b&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie-art-b&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -64,7 +64,7 @@
 # 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Charlie-art-b&theme=tokyo-night"/>
 </p>
 
 ---
@@ -75,13 +75,18 @@
 
 <p align="center">
 
-<a href="TU_LINKEDIN">
+<a href="www.linkedin.com/in/carlos-robles-montenegro-7696a2334">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:caloarobles535@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
+<a href="https://wa.me/50664582529">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
 
 </p>
 
@@ -95,10 +100,8 @@
 </p>
 
 <p align="center">
-Thanks for visiting my profile 👨‍💻
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+👨‍💻;See+you+in+my+projects+🚀;Always+learning+new+technologies+💡" />
 </p>
 ---
 
-<p align="center">
-⭐ From <a href="https://github.com/TU_USUARIO">Carlos Robles Montenegro</a>
-</p>
+

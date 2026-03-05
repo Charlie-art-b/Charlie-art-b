@@ -43,37 +43,17 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
 ---
+## 🗄 Databases
 
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
 
-# ⭐ Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/TU_USUARIO/proyecto1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto1&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/TU_USUARIO/proyecto2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto2&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/TU_USUARIO/proyecto3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto3&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/TU_USUARIO/proyecto4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto4&theme=tokyonight" />
-</a>
-
-</p>
-
----
 
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Charlie-art-b&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
 
@@ -89,7 +69,9 @@
 
 ---
 
-# 🤝 Connect with Me
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -103,6 +85,18 @@
 
 </p>
 
+---
+
+<p align="center">
+  
+💻 Always learning new technologies  
+🚀 Passionate about software development and clean architecture
+
+</p>
+
+<p align="center">
+Thanks for visiting my profile 👨‍💻
+</p>
 ---
 
 <p align="center">

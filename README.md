@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Developer;Event-Driven+Systems+%7C+Microservices;Java+%7C+.NET+%7C+Laravel+%7C+React;Always+learning+new+technologies" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Developer;Java+%7C+.NET+%7C+Laravel+%7C+React;Always+learning+new+technologies" />
   </a>
 </p>
 
